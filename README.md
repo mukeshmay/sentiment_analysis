@@ -1,10 +1,10 @@
 # sentiment_analysis
 
 imdb_reviews.py is the code which includes 
--n_gram
--min_df
--tdidf
-whitelist is been added to remove unnecessary words which are not there in the stopwords..
+-n_gram, 
+-min_df, 
+-tdidf, 
+Whitelist is been added to remove unnecessary words which are not there in the stopwords..
 
 p1.py does not include all of this.
 
